@@ -594,7 +594,7 @@ function ecCheckCookie()
         slidesToScroll: 1,
         asNavFor: '.qty-product-cover',
         dots: false,
-        arrows: true,
+        arrows: false,
         focusOnSelect: true,
         responsive: [
         {

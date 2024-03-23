@@ -16445,7 +16445,7 @@ h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
 .slick-arrow {
   position: absolute;
   top: 390px;
-  background-color: red;
+  background-color: #1ed2aa;
   left: auto;
   right: auto;
   margin: 0 auto;
@@ -16467,7 +16467,7 @@ h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
 }
 .slick-arrow:before {
   content: "";
-  color: #000;
+  color: #fff;
   position: absolute;
   font-size: 30px;
   font-family: "EcIcons";

@@ -236,6 +236,10 @@ kbd {
   color: #fff;
   background-color: #212529;
   border-radius: 0.2rem;
+  -webkit-border-radius: 0.2rem;
+  -moz-border-radius: 0.2rem;
+  -ms-border-radius: 0.2rem;
+  -o-border-radius: 0.2rem;
 }
 kbd kbd {
   padding: 0;
@@ -832,6 +836,9 @@ a {
   background-color: transparent;
   border: 0;
   cursor: pointer;
+  -moz-transition: all 0.3s ease 0s;
+  -ms-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
 }
 a:not([href]):not([class]) {
   color: inherit;
@@ -877,6 +884,10 @@ kbd {
   color: #ffffff;
   background-color: #444444;
   border-radius: 3.2px;
+  -webkit-border-radius: 3.2px;
+  -moz-border-radius: 3.2px;
+  -ms-border-radius: 3.2px;
+  -o-border-radius: 3.2px;
 }
 kbd kbd {
   padding: 0;

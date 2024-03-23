@@ -330,11 +330,11 @@ sup {
 }
 
 a {
-  color: #0d6efd;
+  color: #13a692;
   text-decoration: underline;
 }
 a:hover {
-  color: #0a58ca;
+  color: #3fbac8;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -16061,7 +16061,7 @@ h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   left: -26px;
     top: -1px;
     font-size: 23px;
-  color: chocolate;
+  color: #1ed2aa;
 }
 .section-title.top::before {
   content: '\f0aa';
