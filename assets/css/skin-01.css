@@ -20033,9 +20033,8 @@ button.btn-close.qty_close {
   border: 1px solid #eeeeee;
 }
 .ec-product-inner .ec-pro-image a.quickview:hover {
-  background-color: #ffffff;
-  -webkit-box-shadow: 0px 0px 5px 0px #ccc;
-          box-shadow: 0px 0px 5px 0px #ccc;
+ background-color: #1ed2aa;
+ color: #fff;
 }
 .ec-product-inner .ec-pro-image .ec-pro-actions {
   position: absolute;
@@ -20092,10 +20091,8 @@ button.btn-close.qty_close {
 }
 .ec-product-inner .ec-pro-image .ec-pro-actions .ec-btn-group:hover:not(.active),
 .ec-product-inner .ec-pro-image .ec-pro-actions .ec-btn-group .active:not(.active) {
-  color: rgba(68, 68, 68, 0.7);
-  background-color: #ffffff;
-  -webkit-box-shadow: 0px 0px 5px 0px #ccc;
-          box-shadow: 0px 0px 5px 0px #ccc;
+ background-color: #1ed2aa;
+ color: #fff;
 }
 .ec-product-inner .ec-pro-image .ec-pro-actions .compare {
   position: absolute;
@@ -20117,9 +20114,8 @@ button.btn-close.qty_close {
   border: 1px solid #eeeeee;
 }
 .ec-product-inner .ec-pro-image .ec-pro-actions .wishlist:hover {
-  background-color: #ffffff;
-  -webkit-box-shadow: 0px 0px 5px 0px #ccc;
-          box-shadow: 0px 0px 5px 0px #ccc;
+ background-color: #1ed2aa;
+ color: #fff;
 }
 .ec-product-inner .ec-pro-image .ec-pro-actions .active {
   color: rgba(68, 68, 68, 0.7);
@@ -20160,9 +20156,8 @@ button.btn-close.qty_close {
   border: 1px solid #eeeeee;
 }
 .ec-product-inner .ec-pro-image .ec-pro-actions .add-to-cart:hover {
-  background-color: #ffffff;
-  -webkit-box-shadow: 0px 0px 5px 0px #ccc;
-          box-shadow: 0px 0px 5px 0px #ccc;
+  background-color: #1ed2aa;
+  color: #fff;
 }
 .ec-product-inner .ec-pro-image .shop-cart-icon {
   padding: 0;
